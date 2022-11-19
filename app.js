@@ -7,11 +7,21 @@ app.set('view engine', 'ejs');
 app.use(express.static(("public")))
 app.get('/',(req,res)=>{
     res.render('Login');
-})
+});
+
+
+
 app.post('/loginUser',(req,res)=>{
 
     console.log(req.body);
 
+})
+
+app.get('/registerUser', (req,res)=>{
+    res.render('SignUp');
+})
+app.post('/registerUser', (req,res)=>{
+    console.log(req.body);
 })
 
 app.listen('3000',()=>{

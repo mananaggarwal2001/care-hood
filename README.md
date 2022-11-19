@@ -13,5 +13,5 @@
 ![login form](https://user-images.githubusercontent.com/75381077/202854009-48970d52-6e43-497e-9c6b-9aa7a139fac6.jpg)
 ## Sign Up Form
 ![Sign up form](https://user-images.githubusercontent.com/75381077/202854050-972c7418-edc4-43d0-a04b-9db35529028e.jpg)
-## Razor Pay Page
+## RazorPay Page
 ![razor pay page](https://user-images.githubusercontent.com/75381077/202854157-8c2d42ce-564c-48a2-be01-fe0336da9b9e.jpg)
